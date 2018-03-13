@@ -53,7 +53,7 @@ int main()
 		string s1,s2;
 		cin>>s1>>s2;
 		
-		if(s1!="Het" || s2!="12345678")
+		if(s1!="Viranchi" || s2!="12345678")
 		{
 			printf("Invalid ID\n");
 			goto g1;
